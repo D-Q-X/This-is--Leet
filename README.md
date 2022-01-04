@@ -1,2 +1,2 @@
-# This-is--Leet
+# This-is-Leet
 Do Leetcode !!! 
